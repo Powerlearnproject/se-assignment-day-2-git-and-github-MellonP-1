@@ -181,3 +181,13 @@ Strategies for Smooth Collaboration
 - Provide training and support
 
 
+Here are the APA-style references for the provided text:
+
+References:
+
+1. GitHub. (n.d.). About pull requests.
+2. GitHub. (n.d.). Creating a pull request.
+3. GitHub. (n.d.). Forking a repository.
+4. GitHub. (n.d.). Project boards. 
+5. Git SCM. (n.d.). Git branching. 
+6. Git SCM. (n.d.). Git workflow.
